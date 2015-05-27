@@ -1,0 +1,69 @@
+G:\-- Programmes C#\Windows Phone\Projet Flux RSS\RssProject\RssProject\bin\Debug\App.xbf
+G:\-- Programmes C#\Windows Phone\Projet Flux RSS\RssProject\RssProject\bin\Debug\MainPage.xbf
+G:\-- Programmes C#\Windows Phone\Projet Flux RSS\RssProject\RssProject\bin\Debug\RssProject.xr.xml
+G:\-- Programmes C#\Windows Phone\Projet Flux RSS\RssProject\RssProject\bin\Debug\RssProject.exe
+G:\-- Programmes C#\Windows Phone\Projet Flux RSS\RssProject\RssProject\bin\Debug\RssProject.pdb
+G:\-- Programmes C#\Windows Phone\Projet Flux RSS\RssProject\RssProject\bin\Debug\resources.pri
+G:\-- Programmes C#\Windows Phone\Projet Flux RSS\RssProject\RssProject\bin\Debug\AppxManifest.xml
+G:\-- Programmes C#\Windows Phone\Projet Flux RSS\RssProject\RssProject\bin\Debug\RssProject.build.appxrecipe
+G:\-- Programmes C#\Windows Phone\Projet Flux RSS\RssProject\RssProject\obj\Debug\App.g.i.cs
+G:\-- Programmes C#\Windows Phone\Projet Flux RSS\RssProject\RssProject\obj\Debug\App.g.cs
+G:\-- Programmes C#\Windows Phone\Projet Flux RSS\RssProject\RssProject\obj\Debug\MainPage.g.i.cs
+G:\-- Programmes C#\Windows Phone\Projet Flux RSS\RssProject\RssProject\obj\Debug\MainPage.g.cs
+G:\-- Programmes C#\Windows Phone\Projet Flux RSS\RssProject\RssProject\obj\Debug\XamlTypeInfo.g.cs
+G:\-- Programmes C#\Windows Phone\Projet Flux RSS\RssProject\RssProject\obj\Debug\App.xaml
+G:\-- Programmes C#\Windows Phone\Projet Flux RSS\RssProject\RssProject\obj\Debug\App.xbf
+G:\-- Programmes C#\Windows Phone\Projet Flux RSS\RssProject\RssProject\obj\Debug\XamlSaveStateFile.xml
+G:\-- Programmes C#\Windows Phone\Projet Flux RSS\RssProject\RssProject\obj\Debug\MainPage.xaml
+G:\-- Programmes C#\Windows Phone\Projet Flux RSS\RssProject\RssProject\obj\Debug\MainPage.xbf
+G:\-- Programmes C#\Windows Phone\Projet Flux RSS\RssProject\RssProject\obj\Debug\RssProject.exe
+G:\-- Programmes C#\Windows Phone\Projet Flux RSS\RssProject\RssProject\obj\Debug\RssProject.pdb
+G:\-- Programmes C#\Windows Phone\Projet Flux RSS\RssProject\RssProject\obj\Debug\priconfig.xml
+G:\-- Programmes C#\Windows Phone\Projet Flux RSS\RssProject\RssProject\obj\Debug\priconfig.xml.intermediate
+G:\-- Programmes C#\Windows Phone\Projet Flux RSS\RssProject\RssProject\obj\Debug\layout.resfiles
+G:\-- Programmes C#\Windows Phone\Projet Flux RSS\RssProject\RssProject\obj\Debug\layout.resfiles.intermediate
+G:\-- Programmes C#\Windows Phone\Projet Flux RSS\RssProject\RssProject\obj\Debug\resources.resfiles
+G:\-- Programmes C#\Windows Phone\Projet Flux RSS\RssProject\RssProject\obj\Debug\resources.resfiles.intermediate
+G:\-- Programmes C#\Windows Phone\Projet Flux RSS\RssProject\RssProject\obj\Debug\pri.resfiles
+G:\-- Programmes C#\Windows Phone\Projet Flux RSS\RssProject\RssProject\obj\Debug\pri.resfiles.intermediate
+G:\-- Programmes C#\Windows Phone\Projet Flux RSS\RssProject\RssProject\obj\Debug\qualifiers.txt
+G:\-- Programmes C#\Windows Phone\Projet Flux RSS\RssProject\RssProject\obj\Debug\qualifiers.txt.intermediate
+G:\-- Programmes C#\Windows Phone\Projet Flux RSS\RssProject\RssProject\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+G:\-- Programmes C#\Windows Phone\Projet Flux RSS\RssProject\RssProject\obj\Debug\ProjectArchitectures.txt
+D:\-- Programmation\C#\-- WINDOWS\FluxRssProject2\RssProject\bin\Debug\App.xbf
+D:\-- Programmation\C#\-- WINDOWS\FluxRssProject2\RssProject\bin\Debug\MainPage.xbf
+D:\-- Programmation\C#\-- WINDOWS\FluxRssProject2\RssProject\bin\Debug\RssProject.xr.xml
+D:\-- Programmation\C#\-- WINDOWS\FluxRssProject2\RssProject\bin\Debug\RssProject.exe
+D:\-- Programmation\C#\-- WINDOWS\FluxRssProject2\RssProject\bin\Debug\RssProject.pdb
+D:\-- Programmation\C#\-- WINDOWS\FluxRssProject2\RssProject\bin\Debug\resources.pri
+D:\-- Programmation\C#\-- WINDOWS\FluxRssProject2\RssProject\bin\Debug\AppxManifest.xml
+D:\-- Programmation\C#\-- WINDOWS\FluxRssProject2\RssProject\bin\Debug\RssProject.build.appxrecipe
+D:\-- Programmation\C#\-- WINDOWS\FluxRssProject2\RssProject\obj\Debug\App.g.i.cs
+D:\-- Programmation\C#\-- WINDOWS\FluxRssProject2\RssProject\obj\Debug\App.g.cs
+D:\-- Programmation\C#\-- WINDOWS\FluxRssProject2\RssProject\obj\Debug\MainPage.g.i.cs
+D:\-- Programmation\C#\-- WINDOWS\FluxRssProject2\RssProject\obj\Debug\MainPage.g.cs
+D:\-- Programmation\C#\-- WINDOWS\FluxRssProject2\RssProject\obj\Debug\XamlTypeInfo.g.cs
+D:\-- Programmation\C#\-- WINDOWS\FluxRssProject2\RssProject\obj\Debug\App.xaml
+D:\-- Programmation\C#\-- WINDOWS\FluxRssProject2\RssProject\obj\Debug\MainPage.xaml
+D:\-- Programmation\C#\-- WINDOWS\FluxRssProject2\RssProject\obj\Debug\App.xbf
+D:\-- Programmation\C#\-- WINDOWS\FluxRssProject2\RssProject\obj\Debug\MainPage.xbf
+D:\-- Programmation\C#\-- WINDOWS\FluxRssProject2\RssProject\obj\Debug\XamlSaveStateFile.xml
+D:\-- Programmation\C#\-- WINDOWS\FluxRssProject2\RssProject\obj\Debug\RssProject.exe
+D:\-- Programmation\C#\-- WINDOWS\FluxRssProject2\RssProject\obj\Debug\RssProject.pdb
+D:\-- Programmation\C#\-- WINDOWS\FluxRssProject2\RssProject\obj\Debug\priconfig.xml
+D:\-- Programmation\C#\-- WINDOWS\FluxRssProject2\RssProject\obj\Debug\priconfig.xml.intermediate
+D:\-- Programmation\C#\-- WINDOWS\FluxRssProject2\RssProject\obj\Debug\layout.resfiles
+D:\-- Programmation\C#\-- WINDOWS\FluxRssProject2\RssProject\obj\Debug\layout.resfiles.intermediate
+D:\-- Programmation\C#\-- WINDOWS\FluxRssProject2\RssProject\obj\Debug\resources.resfiles
+D:\-- Programmation\C#\-- WINDOWS\FluxRssProject2\RssProject\obj\Debug\resources.resfiles.intermediate
+D:\-- Programmation\C#\-- WINDOWS\FluxRssProject2\RssProject\obj\Debug\pri.resfiles
+D:\-- Programmation\C#\-- WINDOWS\FluxRssProject2\RssProject\obj\Debug\pri.resfiles.intermediate
+D:\-- Programmation\C#\-- WINDOWS\FluxRssProject2\RssProject\obj\Debug\qualifiers.txt
+D:\-- Programmation\C#\-- WINDOWS\FluxRssProject2\RssProject\obj\Debug\qualifiers.txt.intermediate
+D:\-- Programmation\C#\-- WINDOWS\FluxRssProject2\RssProject\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\-- Programmation\C#\-- WINDOWS\FluxRssProject2\RssProject\obj\Debug\ProjectArchitectures.txt
+D:\-- Programmation\C#\-- WINDOWS\FluxRssProject2\RssProject\bin\Debug\ReadNews.xbf
+D:\-- Programmation\C#\-- WINDOWS\FluxRssProject2\RssProject\obj\Debug\ReadNews.g.i.cs
+D:\-- Programmation\C#\-- WINDOWS\FluxRssProject2\RssProject\obj\Debug\ReadNews.g.cs
+D:\-- Programmation\C#\-- WINDOWS\FluxRssProject2\RssProject\obj\Debug\ReadNews.xaml
+D:\-- Programmation\C#\-- WINDOWS\FluxRssProject2\RssProject\obj\Debug\ReadNews.xbf
